@@ -1,10 +1,11 @@
-**Splunk SIEM & Log Analysis**
+## Splunk SIEM & Log Analysis
 
 
 
 > Deploy Splunk Enterprise on an Azure Linux VM, forward Windows Security, System and Application logs from the Active Directory server built in Lab 1, then search, visualise and alert on that data the way a SOC analyst would.
 
 ---
+## Watch Me Build This Lab!
 
 ## Table of Contents
 
