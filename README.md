@@ -5,7 +5,7 @@
 > Deploy Splunk Enterprise on an Azure Linux VM, forward Windows Security, System and Application logs from the Active Directory server built in Lab 1, then search, visualise and alert on that data the way a SOC analyst would.
 
 ---
-## Watch Me Build This Lab!
+## Watch Me Build This Lab! https://www.loom.com/share/2ddbf4a968b94defa4601bd3460389d1
 
 ## Table of Contents
 
